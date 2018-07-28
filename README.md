@@ -1,3 +1,5 @@
-# Flask-SQLAlchemy
-Sample application of Flask SQLAlchemy
-This application will be used to understand Flask SQLAlchemy and create Rest api
+# Stores REST Api
+
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+
+Deployed on Heroku.
